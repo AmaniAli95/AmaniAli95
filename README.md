@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I am a passionate Data Scientist with a strong bac
 ## Projects
 
 ### Project 1: FastApi LLM Elearning Backend
+
 [![GitHub](https://img.shields.io/badge/GitHub-Project%201-orange)](https://github.com/AmaniAli95/fastapi-llm-elearning-backend)
 - This repository features a FastAPI backend application, utilizing large language models (LLMs) such as GPT-3.5 for question-answering tasks.
 - The core question answering and explanations leverage OpenAI's GPT-3 API, with the backend managing prompt formatting, API calls, and response processing.
