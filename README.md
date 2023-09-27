@@ -27,24 +27,24 @@ Welcome to my GitHub profile! I am a passionate Data Scientist with a strong bac
 ## Projects
 
 ### Project 1: FastApi LLM Elearning Backend
-[![GitHub](https://img.shields.io/badge/GitHub-Project%201-red)](https://github.com/AmaniAli95/fastapi-llm-elearning-backend)
+[![GitHub](https://img.shields.io/badge/GitHub-Project%201-red?logo=github)](https://github.com/AmaniAli95/fastapi-llm-elearning-backend)
 - This repository features a FastAPI backend application, utilizing large language models (LLMs) such as GPT-3.5 for question-answering tasks.
 - The core question answering and explanations leverage OpenAI's GPT-3 API, with the backend managing prompt formatting, API calls, and response processing.
 
 ### Project 2: Billplz Onpay Transaction Scrapper
-[![GitHub](https://img.shields.io/badge/GitHub-Project%202-red)](https://github.com/AmaniAli95/billplz-onpay-transaction-scraper)
+[![GitHub](https://img.shields.io/badge/GitHub-Project%202-red?logo=github)](https://github.com/AmaniAli95/billplz-onpay-transaction-scraper)
 - This repository hosts a Python script designed to automate the extraction and preprocessing of transaction data from Billplz and Onpay payment gateways.
 - The script handles authentication, retrieves transaction data, and preprocesses it efficiently. It uses Selenium and ChromeDriver to automate data extraction from Billplz, eliminating the need for manual downloads.
 - Once data is cleaned and structured, it can be easily exported to Google BigQuery for further analysis. This tool simplifies the data collection process, making it a valuable asset for users of Billplz and Onpay.
 
 ### Project 3: Speech Analysis Speaker Diarization and Genderization
-[![GitHub](https://img.shields.io/badge/GitHub-Project%203-red)](https://github.com/AmaniAli95/speech-analysis-speaker-diarization-genderization)
+[![GitHub](https://img.shields.io/badge/GitHub-Project%203-red?logo=github)](https://github.com/AmaniAli95/speech-analysis-speaker-diarization-genderization)
 - This repository features a TensorFlow 2-based deep learning model for gender recognition from audio samples.
 - The project's focus is on accurately classifying a speaker's gender based on audio data.
 - The primary goal is to provide gender classification capabilities for audio analysis.
 
 ### Project 4: Streamlit Demographic Analyzer
-[![GitHub](https://img.shields.io/badge/GitHub-Project%204-red)](https://github.com/AmaniAli95/streamlit-demographic-analyzer/blob/main/README.md)
+[![GitHub](https://img.shields.io/badge/GitHub-Project%204-red?logo=github)](https://github.com/AmaniAli95/streamlit-demographic-analyzer/blob/main/README.md)
 - Streamlit Demographic Analyzer is a versatile tool for demographic analysis, providing insights into registered voter statistics by ethnicity and age groups within parliamentary districts.
 - Users can tailor parameters to explore the influence of different factors on voter turnout and party support.
 - The application offers interactive visualizations to help users understand the data's impact effectively.
