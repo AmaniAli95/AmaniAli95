@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a passionate Data Scientist with a strong bac
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amaniali-blue)](https://www.linkedin.com/in/amaniali)
 [![Portfolio](https://img.shields.io/badge/Portfolio-amaniali-green)](https://amaniali95.github.io/)
-[![Medium](https://img.shields.io/badge/Follow%20me%20on-Medium-black?style=for-the-badge&logo=amaniali)](https://medium.com/@amanialihusin)
+[![Medium](https://img.shields.io/badge/Medium-amaniali-black?style=for-the-badge&logo=medium)](https://medium.com/@amanialihusin)
 
 ## About Me
 
