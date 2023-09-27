@@ -20,6 +20,9 @@ Welcome to my GitHub profile! I am a passionate Data Scientist with a strong bac
 - 🚀 Adept in optimizing Python code and ETL for big data.
 - 🌐 Experienced in FastAPI and Supabase for backend development.
 - 🔊 Utilized Deep Learning models for audio analysis.
+- 🔧 Orchestrated complete project life cycles, including data extraction, cleansing, and migration for operational efficiency.
+- 🔍 Collaborated with vendor and material teams, identifying and analyzing areas for process improvement.
+- 📈 Created executive dashboard reports using Power BI, enabling data-driven decision-making.
 
 ## Projects
 
