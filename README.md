@@ -4,10 +4,6 @@ Hey there 👋
 
 Welcome to my GitHub profile! I am a passionate Data Scientist with a strong background in machine learning, data analysis, and software development. I'm dedicated to leveraging data-driven insights to solve complex problems and drive innovation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-atenamani-blue?logo=linkedin)](https://www.linkedin.com/in/atenamani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amaniali-green?logo=github)](https://amaniali95.github.io/)
-[![Medium](https://img.shields.io/badge/Medium-amanialihusin-darkgrey?logo=medium)](https://medium.com/@amanialihusin)
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/atenamani">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
