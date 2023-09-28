@@ -8,6 +8,18 @@ Welcome to my GitHub profile! I am a passionate Data Scientist with a strong bac
 [![Portfolio](https://img.shields.io/badge/Portfolio-amaniali-green?logo=github)](https://amaniali95.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-amanialihusin-darkgrey?logo=medium)](https://medium.com/@amanialihusin)
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 
 ## About Me
 
