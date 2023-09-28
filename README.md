@@ -85,11 +85,6 @@ I'm proficient in a variety of technologies, including:
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmaniAli95&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
-
 Feel free to explore my repositories, reach out on LinkedIn, or check out my portfolio for more details. Let's connect and collaborate!
 
 ![Visitor Count](https://profile-counter.glitch.me/AmaniAli95/count.svg)
