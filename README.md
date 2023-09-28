@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I am a passionate Data Scientist with a strong bac
   </a>
 </div>
 
+---
+
 ## About Me
 
 - 💼 Data Scientist with a Master's degree in Applied Mathematics.
