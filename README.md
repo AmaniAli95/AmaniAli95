@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I am a passionate Data Scientist with a strong bac
 - Users can tailor parameters to explore the influence of different factors on voter turnout and party support.
 - The application offers interactive visualizations to help users understand the data's impact effectively.
 
-## Technologies
+## Technical Tools
 
 I'm proficient in a variety of technologies, including:
 
